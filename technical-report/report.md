@@ -2,7 +2,7 @@
 ## Overview
 This report presents the technical investigation of three simulated cyberattack scenarios conducted using BlueTeamLabs. The objective was to identify attack methods, extract indicators of compromise (IOCs), analyze attacker behavior, and determine key security weaknesses.
 
-## TASK 1: FOLLINA EXPLOIT (CVE-2022-30190)
+## TASK 1: FOLLINA EXPLOIT
 Attack Summary
 The attack involved a malicious Microsoft Word document that exploited the Follina vulnerability. The document referenced external HTML content, which triggered the MSDT protocol and enabled remote code execution without requiring macros.
 
