@@ -13,8 +13,8 @@ This project simulates real-world cyberattack scenarios and combines technical a
 - Shiba Insider
 
 ## Reports
-- [Technical Report] (/technical-report/report.md)
-- [GRC Report] ( /grc-report/report.md)
+- [Technical Report] ([/technical-report/report.md](https://github.com/Inib12/enterprise-breach-simulation/blob/a0167ad689c39636bbe70b999ece92f5dc6d13b9/technical-report/report.md))
+- [GRC Report] ([ /grc-report/report.md](https://github.com/Inib12/enterprise-breach-simulation/blob/a0167ad689c39636bbe70b999ece92f5dc6d13b9/grc-report/report.md))
 
 ## Key Focus Areas
 - Attack analysis
